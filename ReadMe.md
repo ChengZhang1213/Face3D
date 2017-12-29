@@ -4,6 +4,6 @@
 # NOTICE
 使用时需要修改 CMakeLists.txt中OpenCv的路径
 效果图
-![device-2017-12-29-163133](/sample/device-2017-12-29-163133.png)
+<img src="/sample/device-2017-12-29-163133.png" width="240" height="320" />
 # Question
 项目存在一个问题，使用dlib做faceDetect非常慢，考虑使用opencv的FaceDetect，但是存在编译问题，opencv使用的是gnustl，但是dlib需要的是c++static
